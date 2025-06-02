@@ -1,1 +1,1 @@
-frontend deployment link - https://magenta-horse-194810.netlify.app/
+frontend deployment link - https://earnest-gaufre-62e295.netlify.app/
